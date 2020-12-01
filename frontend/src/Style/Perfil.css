@@ -1,0 +1,78 @@
+#Parrafo1{
+    display:inline-block;
+    width:18%;
+}
+
+#Parrafo2{
+    display:inline-block;
+    width:18%;
+}
+
+#Parrafo3{
+    display:inline-block;
+    width:18%;
+}
+
+#infor1{
+    display:inline-block;
+    border: solid;
+    width: 30%;
+    margin-top: 2%;
+    margin-right: 12%;
+}
+
+#infor2{
+    display:inline-block;
+    border: solid;
+    width: 30%;
+    margin-top: 2%; 
+    margin-right: 12%;   
+}
+
+#infor3{
+    display:inline-block;
+    border: solid;
+    width: 30%;
+    margin-top: 2%; 
+    margin-right: 12%;
+}
+
+#Perfil{
+    text-align: center;
+}
+
+#subirfoto{
+    margin-left: 5%;
+    display: inline-block;
+    border: solid;
+    min-width: 30%;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    border-radius:500px;
+    padding-top: 9%;
+    background-color: lightgrey;
+}
+
+#escudo{
+    border:solid;
+    margin-left: 6%;
+}
+
+input[type="file"]{
+    display: none;
+}
+
+input[type="submit"]{
+    display: none;
+}
+
+#doc{
+    border: solid;
+    background-color: lightsteelblue;
+    width: 50%;
+}
+
+#usuar{
+    font-size: 1rem;
+}

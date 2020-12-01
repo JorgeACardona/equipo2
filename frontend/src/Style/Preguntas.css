@@ -1,0 +1,22 @@
+#botonduda{
+    margin-top: 5%;
+    text-align: center;
+}
+
+#cuadrotexto{
+    text-align: center;
+}
+#btnpregunta{
+    border: solid;
+
+}
+#btndespe{
+margin: 1%
+}
+
+#boton_enviar{
+  float: right;
+  margin-right: 35%;
+  width: 100px;
+  height: 100px;
+}

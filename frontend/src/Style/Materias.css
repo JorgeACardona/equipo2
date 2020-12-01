@@ -1,0 +1,55 @@
+#nom_mat{
+    
+    text-align: center;
+    position: relative;
+    width: 50%;
+    margin-left: 13%;
+    
+}
+
+#Area{
+    position: absolute;
+    font-size: 1rem;
+    text-align: center;
+    padding-left: 45%;
+    font-weight: bolder
+}
+
+
+#fondo{
+    border-radius: 10px;
+    border: solid;
+    width: 150%;
+    
+    
+}
+
+#cont_materia{
+    margin-top: 3%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 10px;
+    background-color: lightgrey;
+    width: 80%;
+}
+
+#cuaderno{
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+}
+
+#regresar{
+    margin-top: 2%;
+    margin-left: 2%;
+    max-width: 10%;
+    height: 10%;
+}
+
+#nom_tarea{
+    font-size: 1rem;
+}
+
+html{
+    overflow-x: hidden;
+}

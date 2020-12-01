@@ -1,0 +1,27 @@
+#Materia_tabla{
+    font-weight: bolder;
+    background-color: lightgray;
+    border: 2px solid black;
+}
+
+#tabla{
+    margin-left:15%;
+    margin-top: 5%;
+    text-align: center; 
+    width: 70%;
+}
+
+#nota{
+    background-color: white;
+    border: 2px solid black;
+}
+
+#cont_tabla{
+    background-color: aliceblue;
+    align-items: center;
+}
+
+body{
+    background-color: aliceblue;
+    overflow-x: hidden;
+}

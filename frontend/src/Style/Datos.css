@@ -1,0 +1,14 @@
+#contenedor{
+    padding-top: 3%;
+   
+  }
+  #user-group{
+      border: solid;
+  }
+  #contrasena-group{
+      border: solid;
+  }
+
+  #titulo{
+      font-size: 40px;
+  }

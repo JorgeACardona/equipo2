@@ -1,0 +1,30 @@
+h1{
+    text-align: center; 
+}
+
+#imagen{
+    text-align: center;
+    width: 20%;
+}
+
+#contenedor{
+    padding-top: 5%;
+    text-align: center;
+    align-items: center;
+}
+
+#Boton{
+    margin-top: 3%;
+    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+}
+
+
+#titulohome{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+#ajustar{
+    font-size: 1rem;
+}

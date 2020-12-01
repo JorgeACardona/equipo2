@@ -1,0 +1,25 @@
+#cont_correo{
+    text-align: center;
+}
+
+#cont_pers{
+    border: solid;
+    margin-left: 10%;
+    margin-top: 1%;
+    width: 80%;
+    height: 10%;
+    background-color: lightgray;
+}
+
+#user{
+    padding-right:1%;
+    padding-top: 1%;
+}
+
+#nom_cont{
+    font-size: 5vh;
+}
+
+#gmail{
+    font-size: 0.7rem;
+}

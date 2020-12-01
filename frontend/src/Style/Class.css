@@ -1,0 +1,57 @@
+#boton{
+    background-color: lightsteelblue;
+}
+
+#body{
+    background-color: white;
+    border: solid;
+    overflow-x: hidden;  
+}
+
+#header{
+    background-color: rgb(204, 201, 201);
+    border: solid;
+}
+
+#nombre{
+    font-weight: bolder;
+}
+
+#materia{
+    background-color: lightskyblue;
+}
+
+#cartas{
+    border: solid;
+}
+
+#cont_tarjetas{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+#proyecto{
+    background-color: rgb(204, 201, 201);
+    border: solid;  
+}
+
+#nave{
+    font-weight: bolder;
+}
+#foto{
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+    border: solid;
+}
+
+#mas{
+    font-weight: bolder;
+    width: 2.8rem;
+    height: 2.8rem;
+}
+
+#navegacion{
+    width: 2.8rem;
+height: 2.8rem;
+}
